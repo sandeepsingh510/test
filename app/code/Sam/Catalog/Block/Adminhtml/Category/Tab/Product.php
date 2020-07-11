@@ -13,7 +13,7 @@ use Magento\Framework\App\ObjectManager;
 class Product extends \Magento\Backend\Block\Widget\Grid\Extended
 {
     /**
-     * Core registry
+     * Core registry push to staging.
      *
      * @var \Magento\Framework\Registry
      */
